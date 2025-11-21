@@ -1,16 +1,21 @@
-## Hi there 👋
+# 💫 About Me:
+# 👋 Hi, I'm Bharath <br><br>Full-Stack MERN Developer • Backend Engineer • React Native Developer  <br>Founder — Puzzle Diplomats (Digital Marketing & Business Consulting)  <br>From Tiruppur | MCA Student (2024–2026)<br><br>---<br><br># 🧠 Terminal Boot Log<br><br><br>---<br><br># 🔥 About Me<br><br>- 💻 Full-Stack developer who loves backend logic  <br>- 🚀 Building real-world apps for college & business use  <br>- 📱 React Native developer building cross-platform apps  <br>- ⚙ Skilled in Node.js, Express, MongoDB, EJS  <br>- 🧩 Founder of Puzzle Diplomats (marketing + consulting)  <br>- 🎯 Goal: Become a full-stack architect + cloud backend expert  <br>- 🔍 Obsessed with clean, scalable, production-ready code  <br><br>---<br><br># 🛠 Tech Stack<br><br>## **Frontend**<br>- React  <br>- React Native  <br>- HTML, CSS, JavaScript  <br>- Tailwind CSS  <br>- Bootstrap  <br><br>## **Backend**<br>- Node.js  <br>- Express.js  <br>- REST APIs  <br>- EJS  <br><br>## **Database**<br>- MongoDB  <br>- Mongoose  <br><br>## **Tools**<br>- Git, GitHub  <br>- Postman  <br>- VS Code  <br>- Figma  <br><br>---<br><br># 🧩 Featured Projects (Everything Included)<br><br>## ⭐ Complaint Management System (MCA Mini Project)<br>A complete college complaint-handling system:  <br>- React Native frontend  <br>- Node.js + Express backend  <br>- MongoDB database  <br>- JWT Authentication  <br>- Role-based access → SuperAdmin, User, Staff  <br>- Raise, Assign, Track Complaints  <br>- Status Updating, Reports, Dashboards  <br>- Full set of Master Screens:  <br>  - Department  <br>  - Programme  <br>  - Block  <br>  - Room  <br>  - Role  <br>  - User  <br><br>---<br><br>## ⭐ College Canteen Application<br>- Built using Node.js + MongoDB + EJS  <br>- Login / Register / Payments  <br>- Cart logic + order processing  <br>- Clean backend + EJS UI  <br><br>---<br><br>## ⭐ Bike Sales Application (MERN)<br>- MERN architecture  <br>- Admin dashboard  <br>- User bike listing & details  <br>- CRUD for bikes  <br>- Modern structure  <br><br>---<br><br>## ⭐ Library Admin Module<br>- Node.js + MongoDB  <br>- EJS Admin UI  <br>- Full CRUD  <br>- Role-based access  <br>- Clean workflow  <br><br>---<br><br># 🚀 Skills Overview (Combined From All Premium Versions)<br><br><br>---<br><br># ⚡ Fun Developer Commands<br><br>"Learning | Coding | Improving"<br>Unlimited Mode Activated ✔  <br>---<br><br># 📊 GitHub Analytics (APIs Only — GPRM Friendly)<br><br><p align="center"><br>  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Bharath09022002&show_icons=true&theme=tokyonight" /><br>  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bharath09022002&layout=compact&theme=tokyonight" /><br></p><br><br><p align="center"><br>  <img src="https://streak-stats.demolab.com/?user=Bharath09022002&theme=tokyonight" /><br></p><br><br>---<br><br># 🔗 Connect With Me<br><br>- **LinkedIn:** bharathparthipan  <br>- **GitHub:** Bharath09022002  <br>- **Email:** Available on request  <br><br>---<br><br># ⭐ Final Message<br><br>Thanks for visiting my GitHub profile!  <br>If my projects inspire you, consider leaving a ⭐.  <br>Stay tuned —  I am leveling up every day.  <br>
 
-<!--
-**Bharath09022002/BHARATH09022002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bharathparthipan/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shivanbharath42255@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=BHARATH09022002&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=BHARATH09022002&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BHARATH09022002&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=BHARATH09022002&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=BHARATH09022002&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
