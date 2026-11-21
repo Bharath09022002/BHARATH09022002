@@ -28,7 +28,7 @@
 
 ```js
 const bharath = {
-  alias: "Boss",
+  alias: "Bharath",
   role: ["Full-Stack MERN Developer", "Backend Engineer", "Flutter / React Native Developer"],
   location: "Tiruppur, Tamil Nadu 🇮🇳",
   education: "MCA (2024–2026) · B.Sc. Computer Science",
